@@ -1,4 +1,6 @@
-<title>pnotes / K8s Pod</title>
+---
+title: pnotes/K8s/Pod
+---
 
 Pod
 
